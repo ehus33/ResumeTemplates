@@ -13,7 +13,7 @@
 **Massachusetts Institute of Technology**, Cambridge, MA  
 *Radiology and Trajectory Physics Certificate at Lincoln Laboratory*
 
-**Saint Louis University**, St. Louis, MO 
+**Saint Louis University**, St. Louis, MO  
 *Computer Engineering Certificate*
 
 ---
